@@ -1,3 +1,4 @@
 Premise:
 Goal:
 Modules needed:
+Assets: Hypercard Graphics Pack
